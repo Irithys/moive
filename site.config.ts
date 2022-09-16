@@ -57,6 +57,10 @@ export default siteConfig({
     {
       title: '电影',
       pageId: '76ed830e50f24ae8a63ce36c1515cd08'
-    }
+    },
+    {
+      title: '模板',
+      pageId: '4fa9006c1db34fe2bc24f9374deb98e6'
+    },
   ]
 })
