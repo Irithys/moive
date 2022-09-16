@@ -57,10 +57,6 @@ export default siteConfig({
     {
       title: '电影',
       pageId: '76ed830e50f24ae8a63ce36c1515cd08'
-    },
-    {
-      title: '想看',
-      pageId: '8609d5df18174e62bbdae202c698f9e5'
     }
   ]
 })
